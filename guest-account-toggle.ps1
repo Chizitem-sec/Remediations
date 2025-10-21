@@ -3,7 +3,13 @@
     Toggles guest account Administrators group membership (add vs remove) on the system.
     Please test thoroughly in a non-production environment before deploying widely.
     Make sure to run as Administrator or with appropriate privileges.
-
+    
+.NOTES
+    Author        : Chizitem Ibeneme
+    Date Created  : 2025-10-21
+    Last Modified : 2025-10-21
+    Version       : 1.0
+    
 .TESTED ON
     Date(s) Tested  : 2025-10-21
     Tested By       : Chizitem Ibeneme
